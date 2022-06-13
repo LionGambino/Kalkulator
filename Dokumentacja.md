@@ -21,3 +21,8 @@ Program można odpalić w środowisku programistycznym obsługującym język C -
 ![image](https://user-images.githubusercontent.com/107425382/173459643-afc7f961-f8f1-497d-aa44-7e2a1026d5b8.png)
 ![image](https://user-images.githubusercontent.com/107425382/173459723-b2f2988c-1bc7-4546-ac66-d95aedeee712.png)
 
+Struktura składa się z wartości "typ", w której przetrzymywany jest znak, a w przypadku liczby litera "l". Dla liczb mamy wartość "val", w której mamy w zmiennej typu float naszą liczbę. Na końcu znajduje sie wskaźnik "next" do kolejnej struktury.
+
+## Repozytorium GitHub
+
+https://github.com/LionGambino/Calculator
