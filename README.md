@@ -1,4 +1,4 @@
-# Calculator
+# Kalkulator
 Kalkulator obliczajacy równania matematyczne oraz postać równania w ONP.
 
 ## Dokumentacja i instrukcja
