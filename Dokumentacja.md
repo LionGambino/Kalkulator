@@ -1,5 +1,5 @@
 # Kalkulator - równania matematyczne i zamiana na ONP
-Program oblicza równania matematyczne (włączając w to nawiasy) wyświetlając przy tym postać równania w ONP oraz kolejno wykonywane działania (zapisywane dodatkowo w pliku .txt) a zapętlenie pozwala na obliczanie po sobie dowolnej ilości równań.
+Program oblicza równania matematyczne (włączając w to nawiasy), wyświetlając przy tym postać równania w ONP oraz kolejno wykonywane działania (zapisywane dodatkowo w pliku .txt) a zapętlenie pozwala na obliczanie po sobie dowolnej ilości równań.
 ## Jak uruchomić
 Program można odpalić w środowisku programistycznym obsługującym język C - przykładowo Code::Blocks.
 * Pobrać i zainstalować Code::Blocksa (np. https://sourceforge.net/projects/codeblocks/files/Binaries/12.11/Windows/codeblocks-12.11mingw-setup.exe)
